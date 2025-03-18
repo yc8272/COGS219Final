@@ -19,7 +19,7 @@ We first analyzed wildfire frequency across different months and found that envi
 ## Steps ro Run
 1. Download the Git repository.
 
-2. Unzip the frequency_data file.
+2. Unzip the frequency_data and environmental_data file.
 
 3. Set up the Python environment.
 
